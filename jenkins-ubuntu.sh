@@ -4,7 +4,6 @@
 #Date: Feb 2023
 #Description: Installation of jenkins on ubuntu
 
-
 # Update system
 sudo apt-get update
 ##Install java
